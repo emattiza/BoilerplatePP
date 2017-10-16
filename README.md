@@ -1,6 +1,3 @@
-**WARNING: This project is abandoned and no longer going to be maintained by me.**
-**Feel free to fork and update it to your needs.**
-
 # BoilerplatePP
 
 This repo is a Cookiecutter template for new C++ Projects.
@@ -8,8 +5,8 @@ This repo is a Cookiecutter template for new C++ Projects.
 ## Usage
 
 1. Make sure you have [Cookiecutter](https://github.com/audreyr/cookiecutter) installed. If not take a look at [its documentation](http://cookiecutter.rtfd.org/).
-2. Run `cookiecutter https://github.com/Paspartout/BoilerplatePP` in your Terminal.
-3. Your brand new C++ project should be aviable in your given repo_name.
+2. Run `cookiecutter https://github.com/emattiza/BoilerplatePP` in your Terminal.
+3. Your brand new C++ project should be available in your given repo name.
 
 ## Built upon great projects
 
